@@ -31,3 +31,4 @@ flowchart LR
 - [Software Architecture Specification](software-architecture-specification.md): how the system is built (optional).
 - [Software Requirements Specification](software-requirements-specification.md): what the system must do.
 - [Architecture Decision Records](adr/README.md): why the system is built this way.
+- [Test cases](test-cases/README.md): how the requirements are verified.
