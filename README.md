@@ -16,9 +16,18 @@ The main template is located in [`system-documentation`](system-documentation/RE
 - **How:** Software architecture specification
 - **Why:** Architecture Decision Records (ADRs)
 
+Technology-specific conventions are located in
+[`development-guidelines`](development-guidelines/README.md):
+
+- **.NET:** [Project structure](development-guidelines/dotnet/project-structure.md)
+
 ## Repository Structure
 
 ```text
+development-guidelines/
+├── README.md
+└── dotnet/
+    └── project-structure.md
 system-documentation/
 ├── README.md
 ├── software-requirements-specification.md
